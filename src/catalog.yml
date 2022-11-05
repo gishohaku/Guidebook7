@@ -13,7 +13,10 @@ CHAPS:
     - chap-circle-appeals.re
 
   - chap-title-sponsor.re:
+    - chap-sponsor-systemi01.re
+    - chap-sponsor-systemi02.re
     - chap-sponsor-efc.re
+    - chap-sponsor-thelema.re
 
   - chap-title-staff.re:
     - chap-staff-event.re
