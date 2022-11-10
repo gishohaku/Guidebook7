@@ -1,5 +1,5 @@
 //embed{
     \begin{center}
-        \includegraphics[width=0.7\linewidth]{images/chap-circle-layout/Pio.png}
+        \includegraphics[width=1\linewidth]{images/chap-circle-layout/gishohaku7-layout.png}
     \end{center}
 //}
