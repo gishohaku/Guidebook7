@@ -3,6 +3,10 @@
 ## 概要説明
 公式ガイドブックの７のリポジトリです。
 
+## 最終成果物置き場
+https://drive.google.com/file/d/1gG-jksZ-yEU1ff98yuYciIkKWUi5HeLX/view?usp=share_link
+にPDFがあるよ
+
 ## この本の目的
 
 事務局原稿とスポンサー記事をここで書きます。
